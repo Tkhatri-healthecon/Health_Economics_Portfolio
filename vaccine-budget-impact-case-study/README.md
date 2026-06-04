@@ -1,4 +1,4 @@
-# Vaccine Budget Impact Case Study
+# Budget Impact Analysis
 
 ## Overview
 
